@@ -1,2 +1,2 @@
 # flowerMask
-# Generates a mask of the flower images
+Generates a mask of flower images for use in a stimulus norming experiment.
